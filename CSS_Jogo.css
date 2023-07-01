@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@500&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(73, 73, 73);
+}
+
+#EmojisTitulo{
+    font-size: 4rem;
+}
+#tituloFinal{
+    margin-top: 15rem;
+    font-size: 100%;
+    color: aliceblue;
+    font-family: 'Geologica', sans-serif
+}
+#divBts{
+    display: flex;
+    justify-content:space-evenly;
+    align-content: center;
+}
+input{
+    padding: 1%;
+    margin: 0.5rem;
+    padding-left: 2px;
+    padding-right: 70%;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+}
+button{
+    border: 3px solid rgb(240, 240, 240);
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    padding: 9%;
+    margin: 1%;
+    border-radius: 10px;
+    transition: .5s ease;
+}
+
+
+
+@media (max-width: 1000px) {
+    #EmojisTitulo{
+        font-size: 2rem;
+    }
+    button{
+        padding: 2%;
+    }
+}
+
+
+
+
+
+
+
+/* #bts{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10rem;
+}
+
+#EmojisTitulo{
+    font-size: 4rem;
+}
+
+button{
+    border: 35px solid rgb(240, 240, 240);
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    margin: 2rem;
+    border-radius: 10px;
+    transition: .5s ease;
+}
+
+#divBts{
+    display: flex;
+    justify-content:space-evenly;
+    align-content: center;
+}
+
+input{
+
+} */
