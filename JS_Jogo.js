@@ -62,7 +62,90 @@ var Perguntas = [
         r4: "Cidade dos Anjos",
         resp: "Os Caça-Fantasmas"
     },
+
+    {
+        emojis: "🇺🇸🍰",
+        r1: "Se Beber, Não Case",
+        r2: "American Pie",
+        r3: "O Sexto Sentido",
+        r4: "Bee Movie",
+        resp: "American Pie"
+    },
+
     
+    {
+        emojis: "🙊👶👶",
+        r1: "O Silêncio dos Inocentes",
+        r2: "Onze Homens e um Segredo",
+        r3: "O Senhor dos Anéis",
+        r4: "Se Beber, Não Case",
+        resp: "O Silêncio dos Inocentes"
+    },
+    
+    
+    {
+        emojis: "🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🧔‍♂️🙊",
+        r1: "O Senhor dos Anéis",
+        r2: "O Silêncio dos Inocentes",
+        r3: "Onze Homens e um Segredo",
+        r4: "Comer Rezar Amar",
+        resp: "Onze Homens e um Segredo"
+    },
+    
+    {
+        emojis: "🍝🙏👩‍❤️‍👨",
+        r1: "O Náufrago",
+        r2: "American Pie",
+        r3: "Se Beber, Não Case",
+        r4: "Comer Rezar Amar",
+        resp: "Comer Rezar Amar"
+    },
+
+    {
+        emojis: "🏬🏭🏢🏥😇😇",
+        r1: "Se Beber, Não Case",
+        r2: "Três Solteirões e um Bebê",
+        r3: "Cidade dos Anjos",
+        r4: "Quatro Amigas e um Jeans Viajante",
+        resp: "Cidade dos Anjos"
+    },
+
+    {
+        emojis: "👴💍💍",
+        r1: "O Sexto Sentido",
+        r2: "O Senhor dos Anéis",
+        r3: "Quatro Casamentos e Um Funeral",
+        r4: "Se Beber, Não Case",
+        resp: "O Senhor dos Anéis"
+    },
+
+    {
+        emojis: "👻🎤🎼🎶",
+        r1: "O Náufrago",
+        r2: "Os Caça-Fantasmas",
+        r3: "Batman",
+        r4: "O Fantasma da Ópera",
+        resp: "O Fantasma da Ópera"
+    },
+
+    {
+        emojis: "🐝📽️",
+        r1: "Pânico",
+        r2: "Bee Movie",
+        r3: "Homem-Aranha",
+        r4: "Comer Rezar Amar",
+        resp: "Bee Movie"
+    },
+
+    {
+        emojis: "👨‍💼👨‍⚖️👿",
+        r1: "O Diabo Veste Prada",
+        r2: "American Pie",
+        r3: " O Advogado do Diabo",
+        r4: "Comer Rezar Amar",
+        resp: " O Advogado do Diabo"
+    },
+
     {
         emojis: "👩‍🦰🥀👹",
         r1: "A Bela e a Fera",
